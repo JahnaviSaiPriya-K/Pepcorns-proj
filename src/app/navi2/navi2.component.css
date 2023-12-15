@@ -1,0 +1,27 @@
+
+.cont ul{
+    display: flex;
+    gap: 45px;
+    margin: 5px;
+}
+.cont li{
+    list-style-type: none;
+    font-size: larger;
+    color: gray;
+}
+
+.mark{
+    color: blue;
+}
+.cont2 li{
+    padding: 10px;
+}
+.disc{
+    text-align: center;
+}
+.sc{
+    padding: 20px;
+    text-align: left;
+    display: inline-block;
+    border: 1px solid gray;
+}

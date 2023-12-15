@@ -1,0 +1,48 @@
+.cont1{
+    padding: 50px;
+    margin: 10px;
+}
+h1{
+    font-size: 50px;
+    padding: 0;
+    margin: 0;
+}
+
+p{
+    font-size: larger;
+}
+.box button{
+    margin: 4px;
+    border: none;
+    padding: 4px;
+    color: gray;
+}
+.box1{
+    display: flex;
+    flex-direction: row;
+    
+}
+.sbox{
+    font-size: xx-large;
+    
+}
+.sbox ul li{
+    list-style-type: none;
+    padding: 15px;
+   
+}
+.sbox ul li #p{
+    font-size: large;
+    padding-top: 10px;
+}
+.sbox button{
+    padding: 15px;
+    color: white;
+    font-size: medium;
+    background-color: blue;
+    border: none;
+    margin-top: 50px;
+}
+.bbox{
+    margin: 20px;
+}

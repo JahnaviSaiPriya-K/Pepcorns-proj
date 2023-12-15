@@ -1,0 +1,20 @@
+.cont{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    gap: 28px;
+}
+li{
+    list-style-type: none;
+    position: relative;
+    top: 15px;
+}
+#search{
+    border-radius: 40px;
+    height: 40px;  
+    position: relative;
+    top: 5px;
+}
